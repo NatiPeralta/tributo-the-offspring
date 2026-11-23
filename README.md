@@ -40,7 +40,7 @@ O projeto foi criado como exercício prático durante o curso **Formação Front
 
 Nati Peralta
 
-Desenvolvedora Front-end
+Desenvolvedora Full Stack
 
     GitHub: @NatiPeralta
 
